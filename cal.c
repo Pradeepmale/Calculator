@@ -1,4 +1,4 @@
-// Project Calculator   This Mini project i use common Names because i work with multiple function so i can not give multiple variable names
+// Project Calculator   This Mini project i am use common variable Names because i am work with multiple function so i can not give multiple variable names
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
